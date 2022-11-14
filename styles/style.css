@@ -294,7 +294,7 @@ footer {
 }
 
 .kids{
-    width: 500px;
+    width: 90%;
     height: auto;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
@@ -304,8 +304,8 @@ footer {
 
 .equipaments{
     position: relative;
-    left: 90px;
-    width: 500px;
+    left: 300px;
+    width: 75%;
     height: auto;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
@@ -314,7 +314,8 @@ footer {
 }
 
 .question-one{
-    width: 500px;
+    position: relative;
+    width: 90%;
     height: auto;
     background-color:#F3cc29;
     color: black;
@@ -328,7 +329,9 @@ footer {
 }
 
 .question-two{
-    width: 500px;
+    position: relative;
+    left: 80px;
+    width: 90%;
     height:auto;
     background-color:#F3cc29;
     color: black;
@@ -343,7 +346,7 @@ footer {
 }
 
 .lunch{
-    width: auto;
+    width: 100%;
     height: auto;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
@@ -354,7 +357,7 @@ footer {
 .climate{
     position: relative;
     left: 100px;
-    width: auto;
+    width: 100%;
     height: auto;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
@@ -364,7 +367,7 @@ footer {
 }
 
 .question-three{
-    width: 500px;
+    width: 90%;
     height:auto;
     background-color:#F3cc29;
     color: black;
@@ -378,8 +381,8 @@ footer {
 
 .question-four{
     position:relative;
-    left: 25px;
-    width: 500px;
+    left: 80px;
+    width: 90%;
     height:auto;
     background-color:#F3cc29;
     color: black;
@@ -393,7 +396,7 @@ footer {
 }
 
 .marketing{
-    width: auto;
+    width: 100%;
     height: auto;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
@@ -402,8 +405,10 @@ footer {
 
 }
 
-.book{
-    width: auto;
+.booking{
+    position: relative;
+    left: 100px;
+    width: 100%;
     height: auto;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
@@ -412,7 +417,7 @@ footer {
 }
 
 .question-five{
-    width: 500px;
+    width: 100%;
     height:auto;
     background-color:#F3cc29;
     color: black;
@@ -427,7 +432,7 @@ footer {
 .question-six{  
     position: relative;
     left: 40px;
-    width: 500px;
+    width: 100%;
     height:auto;
     background-color:#F3cc29;
     color: black;
